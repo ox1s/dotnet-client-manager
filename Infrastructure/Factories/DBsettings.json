@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "MsSqlConnection": "Data Source=.;Initial Catalog=ClientsDB;Integrated Security=True;Trust Server Certificate=True"
+    }
+}

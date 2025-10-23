@@ -1,2 +1,39 @@
-# dotnet-client-manager
-Client Manager (MSSQL + Dapper + Design Patterns)
+## Техническое задание
+
+### Проект: **dotnet-client-manager**
+
+**Тема:** Консольное приложение "Менеджер клиентов" (MSSQL + Dapper + Design Patterns)
+
+---
+
+### 1. Цель
+
+Создать консольное приложение для управления клиентами с использованием **MS SQL Server** и **Dapper**.
+
+---
+
+### 2. Требования
+
+**2.1. Таблица `Clients`:**
+
+* `Id` — `INT`, PK, Identity
+* `FullName` — `NVARCHAR`
+* `Email` — `NVARCHAR`
+* `IsActive` — `BIT`
+* `CreatedAt` — `DATETIME`
+
+**2.2. Функционал:**
+
+* Добавление клиента
+* Просмотр всех клиентов
+* Изменение `IsActive`
+* Удаление по `Id`
+
+---
+
+### 3. Архитектура
+
+* Вынести работу с БД в отдельный слой **Repository**.
+* (Опционально) Реализовать паттерн **Factory** для создания подключения к БД.
+
+

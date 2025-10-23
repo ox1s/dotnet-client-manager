@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#Learning\\dotnet-client-manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\businesslogic\\services\\addoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:businesslogic\\services\\addoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\businesslogic\\services\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:businesslogic\\services\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\businesslogic\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:businesslogic\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\infrastructure\\dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:infrastructure\\dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\infrastructure\\dataaccess\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:infrastructure\\dataaccess\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\infrastructure\\factories\\mssqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:infrastructure\\factories\\mssqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\infrastructure\\factories\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:infrastructure\\factories\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\infrastructure\\dataaccess\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:infrastructure\\dataaccess\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\infrastructure\\dataaccess\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:infrastructure\\dataaccess\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\infrastructure\\dataaccess\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:infrastructure\\dataaccess\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\businesslogic\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:businesslogic\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|h:\\c#learning\\dotnet-client-manager\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7A099400-9306-06FB-864B-A2185283B13B}|dotnet-client-manager.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\BusinessLogic\\Services\\Operation.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\Operation.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\BusinessLogic\\Services\\Operation.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:08:43.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\DataAccess\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:06:21.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOperation.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\BusinessLogic\\Services\\AddOperation.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\AddOperation.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\BusinessLogic\\Services\\AddOperation.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\AddOperation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:04:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MsSqlConnectionFactory.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\Factories\\MsSqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Factories\\MsSqlConnectionFactory.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\Factories\\MsSqlConnectionFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Factories\\MsSqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:03:08.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\Factories\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Factories\\SqlConnectionFactory.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\Factories\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Factories\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:03:07.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataAccess\\IGenericRepository.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\IGenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\DataAccess\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:58:37.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataAccess\\IClientRepository.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\IClientRepository.cs",
+              "RelativeToolTip": "Infrastructure\\DataAccess\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:58:35.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataAccess\\ClientRepository.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\ClientRepository.cs",
+              "RelativeToolTip": "Infrastructure\\DataAccess\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:06:01.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataAccess\\IUnitOfWork.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\Infrastructure\\DataAccess\\IUnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\DataAccess\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:00:18.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\BusinessLogic\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Entities\\EntityBase.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\BusinessLogic\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "BusinessLogic\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:58:59.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\BusinessLogic\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Entities\\Client.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\BusinessLogic\\Entities\\Client.cs",
+              "RelativeToolTip": "BusinessLogic\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:58:57.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-23T07:58:09.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#Learning\\dotnet-client-manager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\C#Learning\\dotnet-client-manager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:58:07.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 566,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
