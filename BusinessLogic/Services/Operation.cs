@@ -9,11 +9,11 @@ namespace dotnet_client_manager.BusinessLogic.Services
 {
     internal abstract class Operation
     {
-        public readonly IUnitOfWork _unitOfWork;
+        public readonly IClientRepository _clientRepository;
 
-        protected Operation(IUnitOfWork unitOfWork)
+        protected Operation(IClientRepository clientRepository)
         {
-            _unitOfWork = unitOfWork;
+            _clientRepository = clientRepository;
         }
         public abstract Task Execute();
     }

@@ -2,8 +2,9 @@ using System.Data.Common;
 
 namespace dotnet_client_manager.Application.Entities;
 
-public class Client : EntityBase
+public class Client
 {
+    public int Id { get; set; }
     public string FullName { get; set; } = null!;
     public string Email { get; set; } = null!;
     public bool IsActive { get; set; }

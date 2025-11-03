@@ -5,7 +5,7 @@ namespace dotnet_client_manager.BusinessLogic.Services
 {
     internal class AddOperation : Operation
     {
-        public AddOperation(IUnitOfWork unitOfWork) : base(unitOfWork)
+        public AddOperation(IClientRepository clientRepository) : base(clientRepository)
         {
         }
 
@@ -24,7 +24,7 @@ namespace dotnet_client_manager.BusinessLogic.Services
                 CreatedAt = createdAt,
             };
 
-            var command = _unitOfWork.Clients.InsertAsync(clientToCreate);
+            var command = _clientRepository.InsertAsync(clientToCreate);
             return command;
         }
     }

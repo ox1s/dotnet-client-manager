@@ -32,6 +32,17 @@ public class ClientRepository : IClientRepository
         }
     }
 
+    public async Task<IEnumerable<int>> GetIdAsync()
+    {
+        var query = @"select Id from Clients;";
+        using (IDbConnection connection = _connectionFactory.CreateConnection())
+        {
+            var result = await connection.QueryAsync<int>(query);
+            return result.ToList();
+        }
+    }
+
+
     public async Task<int> InsertAsync(Client client)
     {
         var query = @"
