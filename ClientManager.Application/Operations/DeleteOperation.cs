@@ -1,8 +1,8 @@
-﻿using dotnet_client_manager.Application.Entities;
-using dotnet_client_manager.Infrastructure.DataAccess;
+﻿using ClientManager.Application.Operations;
+using ClientManager.Infrastructure.DataAccess;
 using Spectre.Console;
 
-namespace dotnet_client_manager.BusinessLogic.Services
+namespace ClientManager.Application.Operations
 {
     internal class DeleteOperation : Operation
     {

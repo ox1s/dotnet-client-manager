@@ -1,10 +1,10 @@
 using Dapper;
-using dotnet_client_manager.Application.Entities;
-using dotnet_client_manager.Infrastructure.Factories;
+using ClientManager.Domain.Entities;
+using ClientManager.Infrastructure.Factories;
 using Microsoft.Data.SqlClient;
 using System.Data;
 
-namespace dotnet_client_manager.Infrastructure.DataAccess;
+namespace ClientManager.Infrastructure.DataAccess;
 
 public class ClientRepository : IClientRepository
 {

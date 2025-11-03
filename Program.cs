@@ -1,4 +1,4 @@
-﻿using dotnet_client_manager.Infrastructure.Factories;
+﻿using ClientManager.Infrastructure.Factories;
 
 var factory = new MsSqlConnectionFactory();
 

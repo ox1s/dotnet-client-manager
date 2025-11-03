@@ -1,7 +1,7 @@
-﻿using dotnet_client_manager.Application.Entities;
-using dotnet_client_manager.Infrastructure.DataAccess;
+﻿using ClientManager.Domain.Entities;
+using ClientManager.Infrastructure.DataAccess;
 
-namespace dotnet_client_manager.BusinessLogic.Services
+namespace ClientManager.Application.Operations
 {
     internal class AddOperation : Operation
     {

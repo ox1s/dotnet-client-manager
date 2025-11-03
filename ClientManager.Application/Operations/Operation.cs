@@ -1,11 +1,11 @@
-﻿using dotnet_client_manager.Infrastructure.DataAccess;
+﻿using ClientManager.Infrastructure.DataAccess;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dotnet_client_manager.BusinessLogic.Services
+namespace ClientManager.Application.Operations
 {
     internal abstract class Operation
     {

@@ -1,6 +1,6 @@
-using dotnet_client_manager.Application.Entities;
+using ClientManager.Domain.Entities;
 
-namespace dotnet_client_manager.Infrastructure.DataAccess;
+namespace ClientManager.Infrastructure.DataAccess;
 
 public interface IClientRepository
 {

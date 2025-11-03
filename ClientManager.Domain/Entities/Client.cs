@@ -1,6 +1,6 @@
 using System.Data.Common;
 
-namespace dotnet_client_manager.Application.Entities;
+namespace ClientManager.Domain.Entities;
 
 public class Client
 {

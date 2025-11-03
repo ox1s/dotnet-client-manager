@@ -14,4 +14,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.10" />
     <PackageReference Include="Spectre.Console" Version="0.53.0" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ClientManager.Application\Services\" />
+  </ItemGroup>
 </Project>

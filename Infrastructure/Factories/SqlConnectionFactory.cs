@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using System.Data;
 
-namespace dotnet_client_manager.Infrastructure.Factories
+namespace ClientManager.Infrastructure.Factories
 {
     public abstract class SqlConnectionFactory
     {
